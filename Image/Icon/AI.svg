@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 207.9212 192.3584">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-6 {
+        stroke: #cfd4db;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-6 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        stroke: #b3bac5;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #091e42;
+      }
+
+      .cls-4 {
+        stroke: #eceef1;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-7 {
+        fill: #0065ff;
+      }
+
+      .cls-8 {
+        fill: #6554c0;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="849.8943" y1="728.4785" x2="849.8943" y2="678.8198" gradientTransform="translate(-793.1378 -678.8142)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0065ff"/>
+      <stop offset="0.1589" stop-color="#096aff"/>
+      <stop offset="0.4132" stop-color="#2078ff"/>
+      <stop offset="0.729" stop-color="#468fff"/>
+      <stop offset="0.9619" stop-color="#66a3ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1388.6676" y1="-17.4249" x2="-1331.8561" y2="-17.4249" gradientTransform="translate(162.0895 1496.2187) rotate(90)" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>Connections</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Objects">
+      <line class="cls-1" x1="67.7819" y1="26.3176" x2="156.733" y2="22.0595"/>
+      <line class="cls-1" x1="24.7597" y1="129.5043" x2="83.7231" y2="176.4133"/>
+      <line class="cls-2" x1="167.7656" y1="32.1727" x2="183.7971" y2="117.8542"/>
+      <circle class="cls-3" cx="166.185" cy="24.8349" r="11.8148" transform="translate(20.8028 109.0861) rotate(-38.5924)"/>
+      <line class="cls-4" x1="118.275" y1="49.6643" x2="159.0273" y2="29.721"/>
+      <line class="cls-2" x1="62.1478" y1="45.6625" x2="81.8757" y2="169.8859"/>
+      <circle class="cls-5" cx="56.7565" cy="24.8349" r="24.8293" transform="translate(-5.1394 27.4761) rotate(-26.0762)"/>
+      <line class="cls-1" x1="19.0203" y1="112.1986" x2="49.5505" y2="39.0627"/>
+      <line class="cls-4" x1="98.3755" y1="110.7453" x2="111.5429" y2="64.8008"/>
+      <line class="cls-6" x1="122.1397" y1="65.9379" x2="168.6562" y2="124.2239"/>
+      <circle class="cls-7" cx="15.9413" cy="121.3017" r="15.9413"/>
+      <line class="cls-4" x1="91.1621" y1="116.2964" x2="25.3133" y2="119.8115"/>
+      <circle class="cls-8" cx="83.7231" cy="176.4133" r="15.9413" transform="translate(-108.0123 213.4096) rotate(-75.533)"/>
+      <line class="cls-1" x1="92.9602" y1="171.4869" x2="186.9421" y2="138.6593"/>
+      <circle class="cls-9" cx="179.5144" cy="135.9568" r="28.4057" transform="translate(-38.6411 191.7945) rotate(-51.4956)"/>
+      <circle class="cls-3" cx="96.1758" cy="116.2964" r="11.8148"/>
+      <circle class="cls-8" cx="114.3168" cy="56.1796" r="15.9413"/>
+    </g>
+  </g>
+</svg>
