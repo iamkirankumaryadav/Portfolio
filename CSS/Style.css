@@ -7,6 +7,9 @@ a:hover {
 h1 {
   text-align: center;
 }
+.nav-up {
+    top: -40px;
+}
 .back-to-top {
   position: fixed;
   bottom: 25px;
