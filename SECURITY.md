@@ -14,4 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-This Website is monitored by me, any kind of misuse or download of data is tracked and will be reported under the GitHub Security Policy.  
+Website is monitored under the GitHub Security Policy, any kind of misuse or download of data will be tracked and reported.  
