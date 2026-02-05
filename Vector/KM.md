@@ -8,7 +8,7 @@ We added this deck to clarify our **Knowledge Management** approach because, thr
 
 To help everyone gain a clear, non‑technical understanding, we’ve included this overview.
 
-Additionally, we have built a simple, scalable framework that can be applied across all products eliminating the need to create separate chatbots for each one. The framework supports a plug‑and‑play approach, and it can be cloned within a day to address similar usecases efficiently. We've already implemented this for Onboarding Training AI and TechComm.
+Additionally, we have built a simple, scalable framework that can be applied across all products eliminating the need to create separate chatbots for each one. The framework supports a plug‑and‑play approach, and it can be easily cloned and configured within a day to address similar usecases efficiently. We've already implemented this for Onboarding Training AI and TechComm.
 
 ### The core elements of the KM (Knowledge Management) are Documents, KS (Knowledge Source), and KB (Knowledge Base).
 
