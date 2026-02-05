@@ -4,7 +4,7 @@
 - How a **Knowledge Base** is created
 - How we organize **Knowledge Sources** and make that information accessible and usable within our documents and application chat experiences.
 
-We added this deck to clarify our **Knowledge Management** approach because, through our discussions with SMEs and various teams, we realized there is still some confusions and assumptions about how the overall process works. 
+We wanted to clarify our **Knowledge Management** approach because, through our discussions with SMEs and various teams, we realized there is still some confusions and assumptions about how the overall process works. 
 
 To help everyone gain a clear, non‑technical understanding, we’ve included this overview.
 
